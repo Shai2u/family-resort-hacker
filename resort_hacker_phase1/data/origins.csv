@@ -1,0 +1,6 @@
+origin_iata,airport_name,city,country,latitude,longitude,origin_role,notes
+TLV,Ben Gurion Airport,Tel Aviv,Israel,32.0114,34.8867,home_origin,Primary/default Israeli origin
+HFA,Haifa Airport,Haifa,Israel,32.8094,35.0431,home_origin,Alternative Israeli origin; Air Haifa network
+ETM,Ramon Airport,Eilat,Israel,29.7237,35.0114,home_origin,Alternative/positioning origin; international potential
+LCA,Larnaca International Airport,Larnaca,Cyprus,34.8751,33.6249,positioning_hub,Default Cyprus gateway and possible onward hub
+PFO,Paphos International Airport,Paphos,Cyprus,34.718,32.4857,positioning_hub,Default Cyprus gateway and Ryanair-heavy onward hub

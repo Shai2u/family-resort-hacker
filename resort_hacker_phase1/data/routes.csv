@@ -1,0 +1,36 @@
+origin_iata,destination_iata,airline_id,service_type,seasonality,evidence_status,reasoning,source_url,checked_date
+TLV,ATH,A3,direct,mixed,verified_bookable,Official Aegean fare pages show TLV-ATH,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,SKG,A3,direct,mixed,verified_bookable,Official Aegean fare pages show TLV-SKG incl. Jun 2027 examples,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,HER,A3,direct,mixed,verified_bookable,Official Aegean fare pages show TLV-HER,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,RHO,A3,direct,mixed,verified_bookable,Official Aegean fare pages show TLV-RHO,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,LCA,A3,direct,mixed,verified_bookable,Official Aegean fare pages show TLV-LCA,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,CHQ,A3,direct,seasonal_or_variable,verified_bookable,Official Aegean TLV destination page lists CHQ,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,CFU,A3,direct,seasonal_or_variable,verified_bookable,Official Aegean TLV destination page lists CFU,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,PAS,A3,direct,seasonal_or_variable,verified_bookable,Official Aegean TLV destination page shows PAS,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,JMK,A3,direct,seasonal_or_variable,verified_bookable,Official Aegean TLV destination page lists JMK,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+TLV,JTR,A3,direct,seasonal_or_variable,verified_bookable,Official Aegean TLV destination page lists JTR,https://flights.aegeanair.com/en/flights-from-israel-to-greece,2026-09-12
+HFA,LCA,E2,direct,mixed,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,PFO,E2,direct,mixed,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,ATH,E2,direct,mixed,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,RHO,E2,direct,seasonal_or_variable,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,HER,E2,direct,seasonal_or_variable,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,JMK,E2,direct,seasonal_or_variable,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,AOK,E2,direct,seasonal_or_variable,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,SOF,E2,direct,seasonal_or_variable,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+HFA,ETM,E2,direct,mixed,verified_current_network,Air Haifa official check-in page,https://www.airhaifa.com/travelinfo-en/check-in,2026-09-12
+PFO,ATH,FR,direct,mixed,verified_current_network,Official Ryanair route page,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,CHQ,FR,direct,seasonal_or_variable,verified_current_network,Official Ryanair route page,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,ZAG,FR,direct,seasonal_or_variable,verified_current_network,Official Ryanair route page,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,OTP,FR,direct,mixed,verified_current_network,Official Ryanair route page,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,BUD,FR,direct,mixed,verified_current_network,Official Ryanair city-to-city network,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,RHO,FR,direct,seasonal_or_variable,verified_current_network,Official Ryanair city-to-city network,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,SKG,FR,direct,mixed,verified_current_network,Official Ryanair city-to-city network,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,SOF,FR,direct,mixed,verified_current_network,Official Ryanair city-to-city network,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+PFO,NAP,FR,direct,seasonal_or_variable,verified_current_network,Official Ryanair city-to-city network,https://www.ryanair.com/flights/gb/en/city-to-city-flights,2026-09-12
+ETM,TLV,IZ,direct,mixed,airport_airline_verified_destination_seed,Arkia listed by IAA at Ramon; domestic edge seed,https://www.iaa.gov.il/en/airports/ramon/airline-companies/,2026-09-12
+ETM,TLV,6H,direct,mixed,airport_airline_verified_destination_seed,Israir listed by IAA at Ramon; domestic edge seed,https://www.iaa.gov.il/en/airports/ramon/airline-companies/,2026-09-12
+LCA,ATH,W6,direct,mixed,candidate_needs_route_verification,Hermes confirms Wizz connects LCA with Greece; exact city edge to verify,https://www.hermesairports.com/corporate/press-office/media-releases/cyprus-air-connectivity-with-europe-has-been-restored,2026-09-12
+LCA,SKG,W6,direct,mixed,candidate_needs_route_verification,Historically strong Wizz LCA route; reverify before treating as current,https://www.hermesairports.com/corporate/press-office/media-releases/cyprus-air-connectivity-with-europe-has-been-restored,2026-09-12
+LCA,BUD,W6,direct,mixed,candidate_needs_route_verification,Hermes confirms Wizz LCA-Hungary connectivity,https://www.hermesairports.com/corporate/press-office/media-releases/cyprus-air-connectivity-with-europe-has-been-restored,2026-09-12
+LCA,SOF,W6,direct,mixed,candidate_needs_route_verification,Hermes confirms Wizz LCA-Bulgaria connectivity,https://www.hermesairports.com/corporate/press-office/media-releases/cyprus-air-connectivity-with-europe-has-been-restored,2026-09-12
+LCA,OTP,W6,direct,mixed,candidate_needs_route_verification,Hermes confirms Wizz LCA-Romania connectivity,https://www.hermesairports.com/corporate/press-office/media-releases/cyprus-air-connectivity-with-europe-has-been-restored,2026-09-12

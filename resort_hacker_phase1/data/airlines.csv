@@ -1,0 +1,17 @@
+airline_id,airline_name,home_country,business_model,seasonality_profile,notes
+A3,Aegean Airlines,Greece,network,mixed,Strong Greece network; useful TLV and ATH connectivity
+W6,Wizz Air,Hungary,low_cost,mixed,Important low-cost candidate from Israel and Larnaca
+FR,Ryanair,Ireland,low_cost,mixed,Important Paphos hub carrier; Ramon listed by IAA
+IZ,Arkia,Israel,leisure_hybrid,mixed,Israeli leisure carrier; Ramon listed by IAA
+6H,Israir,Israel,leisure_hybrid,mixed,Israeli leisure carrier; Ramon listed by IAA
+LY,EL AL / Sun d'Or,Israel,network_leisure,mixed,EL AL group / Sun d'Or leisure routes
+E2,Air Haifa,Israel,regional_low_cost,mixed,"Haifa-based carrier; Cyprus, Greece, Ramon"
+BZ,Bluebird Airways,Greece,leisure,seasonal_heavy,Greek leisure carrier relevant to TLV resort gateways
+CY,Cyprus Airways,Cyprus,network_leisure,mixed,Cyprus-based carrier; useful Larnaca connectivity
+U8,TUS Airways,Cyprus,regional_leisure,mixed,Cyprus/Israel regional candidate
+GQ,SKY express,Greece,network,mixed,Greek domestic/international network; hub potential
+U2,easyJet,United Kingdom,low_cost,mixed,Potential resilient European gateway carrier
+V7,Volotea,Spain,low_cost_leisure,seasonal_heavy,Mediterranean seasonal connectivity candidate
+OU,Croatia Airlines,Croatia,network,mixed,Croatia domestic/regional connectivity candidate
+FB,Bulgaria Air,Bulgaria,network,mixed,Bulgaria connectivity candidate
+H4,HiSky / Animawings candidate,Romania,leisure,seasonal_heavy,Placeholder candidate family; verify exact operating carrier before use

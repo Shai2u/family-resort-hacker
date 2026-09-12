@@ -1,0 +1,38 @@
+destination_iata,airport_name,city,country,latitude,longitude,resort_catchment,gateway_role
+ATH,Athens International,Athens,Greece,37.9364,23.9445,Attica / mainland / connection hub,hub+resort_gateway
+SKG,Thessaloniki Airport,Thessaloniki,Greece,40.5197,22.9709,Halkidiki / Northern Greece,resort_gateway
+HER,Heraklion International,Heraklion,Greece,35.3397,25.1803,Central/East Crete,resort_gateway
+CHQ,Chania International,Chania,Greece,35.5317,24.1497,West Crete,resort_gateway
+RHO,Rhodes International,Rhodes,Greece,36.4054,28.0862,Rhodes,resort_gateway
+KGS,Kos International,Kos,Greece,36.7933,27.0917,Kos,resort_gateway
+CFU,Corfu International,Corfu,Greece,39.6019,19.9117,Corfu,resort_gateway
+ZTH,Zakynthos International,Zakynthos,Greece,37.7509,20.8843,Zakynthos,resort_gateway
+PVK,Aktion National,Preveza,Greece,38.9255,20.7653,Lefkada / Epirus,resort_gateway
+JSI,Skiathos International,Skiathos,Greece,39.1771,23.5037,Skiathos / Sporades,resort_gateway
+JMK,Mykonos International,Mykonos,Greece,37.4351,25.3481,Mykonos / Cyclades,resort_gateway
+JTR,Santorini International,Santorini,Greece,36.3992,25.4793,Santorini / Cyclades,resort_gateway
+AOK,Karpathos Island National,Karpathos,Greece,35.4214,27.146,Karpathos,resort_gateway
+PAS,Paros National,Paros,Greece,37.0205,25.1132,Paros,resort_gateway
+LCA,Larnaca International,Larnaca,Cyprus,34.8751,33.6249,Larnaca / Ayia Napa / Protaras / Limassol,default_gateway
+PFO,Paphos International,Paphos,Cyprus,34.718,32.4857,Paphos / West Cyprus / Limassol,default_gateway
+BOJ,Burgas Airport,Burgas,Bulgaria,42.5696,27.5152,Sunny Beach / Nessebar / South Black Sea,resort_gateway
+VAR,Varna Airport,Varna,Bulgaria,43.2321,27.8251,Golden Sands / North Black Sea,resort_gateway
+SOF,Sofia Airport,Sofia,Bulgaria,42.6952,23.4062,Bulgaria inland / positioning hub,hub
+TIA,Tirana International,Tirana,Albania,41.4147,19.7206,Albanian Riviera / Durres,resort_gateway
+TIV,Tivat Airport,Tivat,Montenegro,42.4047,18.7233,Bay of Kotor / Montenegro coast,resort_gateway
+TGD,Podgorica Airport,Podgorica,Montenegro,42.3594,19.2519,Montenegro inland/coast fallback,fallback_gateway
+DBV,Dubrovnik Airport,Dubrovnik,Croatia,42.5614,18.2682,South Dalmatia / Montenegro fallback,resort_gateway
+SPU,Split Airport,Split,Croatia,43.5389,16.298,Central Dalmatia,resort_gateway
+ZAD,Zadar Airport,Zadar,Croatia,44.1083,15.3467,North Dalmatia,resort_gateway
+ZAG,Zagreb Airport,Zagreb,Croatia,45.7429,16.0688,Croatia inland / resilient fallback,hub+fallback_gateway
+PUY,Pula Airport,Pula,Croatia,44.8935,13.9222,Istria / Rovinj / Amarin,resort_gateway
+OTP,Henri Coanda International,Bucharest,Romania,44.5711,26.085,Romania / Black Sea via ground transport,hub+fallback_gateway
+BUD,Budapest Ferenc Liszt,Budapest,Hungary,47.4298,19.2611,Hungary / Central Europe positioning,hub
+BRI,Bari Karol Wojtyla,Bari,Italy,41.1389,16.7606,Puglia,resort_gateway
+NAP,Naples International,Naples,Italy,40.886,14.2908,Campania / Amalfi / islands,resort_gateway
+CTA,Catania Fontanarossa,Catania,Italy,37.4668,15.0664,East Sicily,resort_gateway
+BGY,Milan Bergamo,Bergamo,Italy,45.6739,9.7042,Northern Italy positioning,hub
+MXP,Milan Malpensa,Milan,Italy,45.6306,8.7281,Northern Italy resilient gateway,hub
+FCO,Rome Fiumicino,Rome,Italy,41.8003,12.2389,Central Italy / positioning,hub
+VCE,Venice Marco Polo,Venice,Italy,45.5053,12.3519,Veneto / distant resilient gateway for Istria,expedition_gateway
+TRS,Trieste Airport,Trieste,Italy,45.8275,13.4722,Trieste / Slovenia / Istria fallback,cross_border_gateway
